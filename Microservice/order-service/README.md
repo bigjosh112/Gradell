@@ -16,7 +16,7 @@ This is a Mirco service Node.js, Express, Typescript, Unit testing based RESTful
 ## 1. Clone Project into your local machine
 
 ```
-https://github.com/bigjosh112/Backend_Engineer_Assessment
+https://github.com/bigjosh112/Gradell
 ```
 
 ### install all packages
