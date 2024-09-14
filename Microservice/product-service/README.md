@@ -46,7 +46,7 @@ npm install
 
 
 ## Postman documentation
-> click here to see the Postman documentation [here](https://documenter.getpostman.com/view/26996251/2sAXqngR53).
+> click here to see the Postman documentation [here](https://documenter.getpostman.com/view/26996251/2sAXqngk6Y).
 
 ## Developer
 | Name                   | Email                      | 
